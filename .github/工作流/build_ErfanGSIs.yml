@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://xiaomirom.com/download/redmi-9-9-prime-lancelot-stable-V12.5.8.0.RJCCNXM/#china-recovery
+  ROM_URL: https://6i3vltd7nnodb8c6n953fc82e7582qnashkueoad4hb1lvtb5q9fv4ku.qc.dolfincdnx.cn:7843/xdispatchab74e3e47d2ca2dd/bigota.d.miui.com/V12.5.8.0.RJCCNXM/miui_LANCELOT_V12.5.8.0.RJCCNXM_2f765c552d_11.0.zip?BSLuBan=eyJob3N0IjoiYmlnb3RhLmQubWl1aS5jb20iLCJic3JlcWlkIjoiYmQxNWVlZDZmMzUwNzA4NDYxNDdhYTJjYTI5ZDMzZTkiLCJjYWNoZV9rZXkiOiJcL1YxMi41LjguMC5SSkNDTlhNXC9taXVpX0xBTkNFTE9UX1YxMi41LjguMC5SSkNDTlhNXzJmNzY1YzU1MmRfMTEuMC56aXAiLCJkbnNfaG9zdCI6InBmMDAzLnYuYnNnc2xiLmNuIiwia2V5IjoiNThjZDM5MmQxNDNiZjRmODVkNmE2MDJiNmVlMjgwZTkiLCJ0cyI6MTY2ODA4MjMyM30=
   ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
